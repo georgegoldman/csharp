@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/calculato_v2/bin/Debug/net6.0/calculato_v2
+/home/onyedikachi/backend/c#/calculato_v2/bin/Debug/net6.0/calculato_v2.deps.json
+/home/onyedikachi/backend/c#/calculato_v2/bin/Debug/net6.0/calculato_v2.runtimeconfig.json
+/home/onyedikachi/backend/c#/calculato_v2/bin/Debug/net6.0/calculato_v2.dll
+/home/onyedikachi/backend/c#/calculato_v2/bin/Debug/net6.0/calculato_v2.pdb
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.dll
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/refint/calculato_v2.dll
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.pdb
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/calculato_v2.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/calculato_v2/obj/Debug/net6.0/ref/calculato_v2.dll
