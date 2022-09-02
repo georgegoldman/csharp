@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/conditioning/bin/Debug/net6.0/conditioning
+/home/onyedikachi/backend/c#/conditioning/bin/Debug/net6.0/conditioning.deps.json
+/home/onyedikachi/backend/c#/conditioning/bin/Debug/net6.0/conditioning.runtimeconfig.json
+/home/onyedikachi/backend/c#/conditioning/bin/Debug/net6.0/conditioning.dll
+/home/onyedikachi/backend/c#/conditioning/bin/Debug/net6.0/conditioning.pdb
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.dll
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/refint/conditioning.dll
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.pdb
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/conditioning.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/conditioning/obj/Debug/net6.0/ref/conditioning.dll
