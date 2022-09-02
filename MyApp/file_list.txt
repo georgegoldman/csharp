@@ -1,0 +1,10 @@
+bin
+file_list.txt
+MyApp.csproj
+obj
+Program.cs
+bin
+file_list.txt
+MyApp.csproj
+obj
+Program.cs
