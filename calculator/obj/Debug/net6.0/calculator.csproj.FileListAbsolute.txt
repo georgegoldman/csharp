@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/calculator/bin/Debug/net6.0/calculator
+/home/onyedikachi/backend/c#/calculator/bin/Debug/net6.0/calculator.deps.json
+/home/onyedikachi/backend/c#/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/home/onyedikachi/backend/c#/calculator/bin/Debug/net6.0/calculator.dll
+/home/onyedikachi/backend/c#/calculator/bin/Debug/net6.0/calculator.pdb
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.dll
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/refint/calculator.dll
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.pdb
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/calculator/obj/Debug/net6.0/ref/calculator.dll
