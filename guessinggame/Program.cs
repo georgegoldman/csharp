@@ -12,13 +12,31 @@ namespace GuessingGame
         {
             string secretWord = "goldman";
             string guess = "";
+            int guessCount = 0;
+            int guessLimit = 3;
+            bool outOfGuesses = false;
 
-            while (guess != secretWord)
+            while (guess != secretWord && !outOfGuesses)
             {
-                Console.Write("Enter guess: ");
-                guess = Console.ReadLine();
+                if (guessCount < guessLimit)
+                {
+                    Console.Write("Enter guess: ");
+                    guess = Console.ReadLine();
+                    guessCount++;
+                }
+                else
+                {
+                    outOfGuesses = true;
+                }
             }
-            Console.WriteLine("you win!");
+            if (outOfGuesses)
+            {
+                Console.WriteLine("You lose!");
+            }
+            else
+            {
+                Console.WriteLine("you win!");
+            }
         }
     }
 }
