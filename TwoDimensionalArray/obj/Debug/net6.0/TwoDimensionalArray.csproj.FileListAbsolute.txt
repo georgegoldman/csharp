@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/TwoDimensionalArray/bin/Debug/net6.0/TwoDimensionalArray
+/home/onyedikachi/backend/c#/TwoDimensionalArray/bin/Debug/net6.0/TwoDimensionalArray.deps.json
+/home/onyedikachi/backend/c#/TwoDimensionalArray/bin/Debug/net6.0/TwoDimensionalArray.runtimeconfig.json
+/home/onyedikachi/backend/c#/TwoDimensionalArray/bin/Debug/net6.0/TwoDimensionalArray.dll
+/home/onyedikachi/backend/c#/TwoDimensionalArray/bin/Debug/net6.0/TwoDimensionalArray.pdb
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.dll
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/refint/TwoDimensionalArray.dll
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.pdb
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/TwoDimensionalArray.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/TwoDimensionalArray/obj/Debug/net6.0/ref/TwoDimensionalArray.dll
