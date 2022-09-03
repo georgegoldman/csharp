@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/forloop/bin/Debug/net6.0/forloop
+/home/onyedikachi/backend/c#/forloop/bin/Debug/net6.0/forloop.deps.json
+/home/onyedikachi/backend/c#/forloop/bin/Debug/net6.0/forloop.runtimeconfig.json
+/home/onyedikachi/backend/c#/forloop/bin/Debug/net6.0/forloop.dll
+/home/onyedikachi/backend/c#/forloop/bin/Debug/net6.0/forloop.pdb
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.dll
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/refint/forloop.dll
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.pdb
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/forloop.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/forloop/obj/Debug/net6.0/ref/forloop.dll
