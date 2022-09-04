@@ -1,0 +1,15 @@
+/home/onyedikachi/backend/c#/oop/bin/Debug/net6.0/oop
+/home/onyedikachi/backend/c#/oop/bin/Debug/net6.0/oop.deps.json
+/home/onyedikachi/backend/c#/oop/bin/Debug/net6.0/oop.runtimeconfig.json
+/home/onyedikachi/backend/c#/oop/bin/Debug/net6.0/oop.dll
+/home/onyedikachi/backend/c#/oop/bin/Debug/net6.0/oop.pdb
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.csproj.AssemblyReference.cache
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.AssemblyInfoInputs.cache
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.AssemblyInfo.cs
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.csproj.CoreCompileInputs.cache
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.dll
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/refint/oop.dll
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.pdb
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/oop.genruntimeconfig.cache
+/home/onyedikachi/backend/c#/oop/obj/Debug/net6.0/ref/oop.dll
